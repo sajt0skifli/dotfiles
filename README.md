@@ -29,3 +29,5 @@
 -   [waybar](https://github.com/Alexays/Waybar)
 -   [wlogout](https://github.com/ArtsyMacaw/wlogout) (Currently broken)
 -   [wofi](https://github.com/SimplyCEO/wofi)
+
+I probably forgot a couple...
