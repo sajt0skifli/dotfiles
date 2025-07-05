@@ -3,7 +3,7 @@ window {
     margin: 8px;
     border-radius: 2px;
     background-color: rgba(30, 30, 30, 0.6);
-    border: 1px solid #7bd9fb;
+    border: 1px solid rgba(255, 255, 255, 0.5);
     box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
     font-family: "SF Pro Display", sans-serif;
 }
