@@ -9,6 +9,12 @@
 -   [git](https://git-scm.com/)
 -   [stow](https://www.gnu.org/software/stow/)
 
+Stow command to use (from dotfiles root directory):
+
+```bash
+stow -t ~ --override='.*' .
+```
+
 ### Shell and Terminal
 
 -   [zsh](https://www.zsh.org/)
