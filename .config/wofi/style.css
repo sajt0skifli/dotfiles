@@ -38,6 +38,10 @@ window {
     font-family: "SF Pro Display", sans-serif;
 }
 
+#entry:selected {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
 /* Text next to the icon */
 #text {
     margin-left: 12px;
