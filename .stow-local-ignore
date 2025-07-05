@@ -26,4 +26,4 @@ _darcs
 
 # Additional ignores
 
-*.md$    # Markdown files
+\.md$    # Markdown files
