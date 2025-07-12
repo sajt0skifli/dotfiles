@@ -184,7 +184,7 @@
             "tooltip": "{}",
             "tooltip-format-wifi": "{ifname}\n{essid}\n{signalStrength}% \n{frequency} GHz\n󰇚 {bandwidthDownBits}\n󰕒 {bandwidthUpBits}",
             "tooltip-format-ethernet": "{ifname}\n󰇚 {bandwidthDownBits} \n󰕒 {bandwidthUpBits}",
-            "on-click": "nmtui",
+            "on-click": "kitty nmtui",
             "format-icons": ["󰤫", "󰤟", "󰤢", "󰤥", "󰤨"],
             "states": {
                 "normal": 25
